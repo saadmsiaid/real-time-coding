@@ -1,0 +1,35 @@
+body {
+    background-color: #343a40; 
+    color: #fff;
+  }
+  
+  .card {
+    border: none;
+    border-radius: 10px;
+  }
+  
+  .form-control {
+ 
+    color: #fff; 
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  
+  ::placeholder {
+    color: #ced4da;
+  }
+  
+  .form-control:focus {
+    box-shadow: none;
+    background-color: #495057;
+  }
+  
